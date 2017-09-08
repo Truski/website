@@ -33,3 +33,12 @@ Buddig & Company; I spent my time there updating their existing code to the
 latest .NET version and developing new features in their internal knowledge
 base. At that job I learned to love high level languages like Visual Basic and
 all-you-can-eat development environments like Visual Studio.
+
+In the programming world, I see myself as a jack of many trades. If there is a
+technology I'm interested in, I at least want to understand the basics. One area
+where I am invested in learning the deep-level internals, however, is game
+development. So far I have been using frameworks like LibGDX or manipulating the
+DOM to create games, but I would like to dig deeper and create my own game
+engine. I mainly am interested in creating competitive games, such as the ones I
+play and create tournaments for. I look forward to a career in a game
+development studio or even my own gaming company.
