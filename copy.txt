@@ -26,3 +26,10 @@ stream. The work so far has culminated into a massive event we held in the
 summer of 2017, where I combined my experience of TOing (tournament organizing)
 with programming to create an event that imitated professional gaming
 tournaments like EVO.
+
+In my free time, I do freelance work, usually building websites or building and
+fixing computers. During the summer of 2017 I had an internship position at Carl
+Buddig & Company; I spent my time there updating their existing code to the
+latest .NET version and developing new features in their internal knowledge
+base. At that job I learned to love high level languages like Visual Basic and
+all-you-can-eat development environments like Visual Studio.
