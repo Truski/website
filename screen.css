@@ -62,13 +62,13 @@ html {
   color: #eaeaea; /* Equidistant Off-white */
 }
 
-body {
+main {
   padding: 0 5%;
   background-color: #141414; /* Equidistant Off-black */
 }
 
 @media screen and (min-width: 960px) {
-  body {
+  main {
     width: 720px; /* 960px * 75% = 720px */
     margin: 0 auto;
     padding: 0 5%;
