@@ -50,6 +50,8 @@ table {
 /* End Reset CSS */
 /* Begin Site Styles */
 
+/* Using modular scale http://www.modularscale.com/?1.125&em&1.333 */
+
 html {
   text-rendering: optimizeLegibility;
   -webkit-text-size-adjust: 100%;
@@ -58,12 +60,13 @@ html {
   text-size-adjust: 100%;
   background-color: #000000; /* Black margin background */
   font-size: 1.125em; /* 18px / 16px = 1.125em */
+  line-height: 1.22222222em; /* 22px / 18px = 1.22222222em */
   font-family: Georgia, serif;
   color: #eaeaea; /* Equidistant Off-white */
 }
 
 main {
-  padding: 0 5%;
+  padding: 1.22222222em 5%; /* 22px (1 gridline) top and bottom, 5% sides */
   background-color: #141414; /* Equidistant Off-black */
 }
 
@@ -71,22 +74,19 @@ main {
   main {
     width: 720px; /* 960px * 75% = 720px */
     margin: 0 auto;
-    padding: 0 5%;
     border-left: 3px solid white;
     border-right: 3px solid white;
   }
 }
 
 h1 {
-  font-size: 2em; /* 36px / 18px = 2em */
-  line-height: 1.5em;
-  padding-bottom: .25em;
+  font-size: 2.369em; /* 1em * 1.333^3 = 2.369em == 42.642px */
+  line-height: 1.54777em; /* 66px / 42.642 = 1.54777em (3 gridlines) */
   text-align: center;
   font-family: helvetica, arial, sans-serif;
   font-weight: bold;
 }
 
 p {
-  line-height: 1.5em;
-  padding-bottom: 1em;
+  padding-bottom: 1.2222222em;
 }
