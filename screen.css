@@ -67,7 +67,7 @@ html {
 
 main {
   padding: 1.22222222em 5%; /* 22px (1 gridline) top and bottom, 5% sides */
-  background-color: #141414; /* Equidistant Off-black */
+  background-color: #151515; /* Equidistant Off-black */
 }
 
 @media screen and (min-width: 960px) {
